@@ -3,7 +3,7 @@
   <img width="460" src="https://raw.githubusercontent.com/wahlrechner/wahlrechner/development/.github/logo-dark.png#gh-dark-mode-only">
 </p>
 
-<h3 align="center"><i>Wahlrechner</i> ist eine offene, individualisierbare und transparente Wahlempfehlungshilfe. Diese Version wurde um zwei weitere Antworten (stimme (nicht) teilweise zu. Hier der Originale Wahlrechner: https://github.com/wahlrechner. </h3>
+<h3 align="center"><i>Wahlrechner</i> ist eine offene, individualisierbare und transparente Wahlempfehlungshilfe. Diese Version wurde um zwei weitere Antworten (stimme (nicht) teilweise zu erweitert. Hier der Originale Wahlrechner: https://github.com/wahlrechner. </h3>
 
 <p align="center">Wahlrechner im Einsatz: <a href="https://buxt-o-mat.de/"><b>Buxt-O-Mat '21</b></a> | <a href="https://kw21.stad-o-mat.de/"><b>Stad-O-Mat '21</b></a> | <a href="https://stad-o-mat.de/"><b>Stad-O-Mat '22</b></a> | <a href="https://delm-o-mat.de/"><b>Delm-O-Mat '22</b></a></p>
 
